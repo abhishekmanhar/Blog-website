@@ -1,6 +1,6 @@
 # finalpro
 this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+#https://food-blog-by-abhi.000webhostapp.com/
 ![Screenshot 2022-11-11 022503](https://user-images.githubusercontent.com/79569235/201204566-f44055b4-c656-42de-922d-cb7fabfec222.jpg)
 ![Screenshot 2022-11-11 022558](https://user-images.githubusercontent.com/79569235/201204575-c4373615-36d4-4e92-af60-ffe7a014b493.jpg)
 ![Screenshot 2022-11-11 022625](https://user-images.githubusercontent.com/79569235/201204579-55196e3f-2239-4a71-b99d-de7c310ccec8.jpg)
